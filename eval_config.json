@@ -1,0 +1,1 @@
+{"thresholds":{"answer_relevancy":0.5,"context_precision_at_k":0.3,"context_recall":0.8,"faithfulness":0.85},"top_k":3}
